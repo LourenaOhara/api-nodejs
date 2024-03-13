@@ -16,3 +16,5 @@ API Rest
 - estrutura de dados: JSON (JavaScript Object Notation)
 - métodos HTTP e HTTP Codes (1xx, 2xx, 3xx, 4xx)
 
+Nodemon
+- comando para iniciar o servidor: yarn dev
